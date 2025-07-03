@@ -1,0 +1,1 @@
+var json_Nieuwebruggen_11 = {"type":"FeatureCollection","name":"Nieuwebruggen_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Naam":"Nieuwe Doorsneedraai"},"geometry":{"type":"Point","coordinates":[6.944952,53.060272]}}]}
